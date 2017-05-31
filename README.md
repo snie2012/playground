@@ -1,3 +1,3 @@
 # playground
 
-Play with different projects, softwares, frameworks and technologies.
+Play with different projects, libraries, softwares, frameworks and technologies.
