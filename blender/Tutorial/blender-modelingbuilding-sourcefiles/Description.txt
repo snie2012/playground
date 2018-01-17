@@ -1,0 +1,12 @@
+Author: Jonathan Williamson
+Site: http://blendercookie.com
+Copyrighted by Blender Cookie 2010
+
+Title: Modeling a Building
+
+Description:
+In this Blender 2.5 video tutorial we go through a fun modeling exercise by modeling a building from a single reference. Due to not have any head-on views of the building we model everything by eyeballing it, using some techniques to best approximate the actual dimensions. By the end of the tutorial we're left with a model that could easily be used as a game asset or as a base for much more highly detailed building model. 
+
+The reference is kindly provided by our very own Wes Burke.
+
+Tags: blender 3d, blender tutorial, blender video tutorial, blender 2.5, blender 2.55, jonathan williamson, modeling, building

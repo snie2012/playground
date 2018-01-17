@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AMApplicationBuild</key>
+	<string>419</string>
+	<key>AMApplicationVersion</key>
+	<string>2.6</string>
+	<key>AMDocumentVersion</key>
+	<string>2</string>
+	<key>actions</key>
+	<array>
+		<dict>
+			<key>action</key>
+			<dict>
+				<key>AMAccepts</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Optional</key>
+					<false/>
+					<key>Types</key>
+					<array>
+						<string>com.apple.addressbook.item-object</string>
+					</array>
+				</dict>
+				<key>AMActionVersion</key>
+				<string>2.0.1</string>
+				<key>AMApplication</key>
+				<array>
+					<string>Contacts</string>
+				</array>
+				<key>AMParameterProperties</key>
+				<dict>
+					<key>addLabels</key>
+					<dict/>
+					<key>combineNames</key>
+					<dict/>
+					<key>exportFormat</key>
+					<dict/>
+					<key>storedProperties</key>
+					<dict/>
+				</dict>
+				<key>AMProvides</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Types</key>
+					<array>
+						<string>com.apple.cocoa.string</string>
+					</array>
+				</dict>
+				<key>ActionBundlePath</key>
+				<string>/System/Library/Automator/Get Contact Information.action</string>
+				<key>ActionName</key>
+				<string>Get Contact Information</string>
+				<key>ActionParameters</key>
+				<dict>
+					<key>addLabels</key>
+					<true/>
+					<key>combineNames</key>
+					<true/>
+					<key>exportFormat</key>
+					<integer>0</integer>
+					<key>storedProperties</key>
+					<array>
+						<array>
+							<true/>
+							<string>First Name</string>
+						</array>
+						<array>
+							<true/>
+							<string>Last Name</string>
+						</array>
+						<array>
+							<false/>
+							<string>Job Title</string>
+						</array>
+						<array>
+							<false/>
+							<string>Department</string>
+						</array>
+						<array>
+							<false/>
+							<string>Company</string>
+						</array>
+						<array>
+							<true/>
+							<string>Home Address</string>
+						</array>
+						<array>
+							<true/>
+							<string>Work Address</string>
+						</array>
+						<array>
+							<true/>
+							<string>Home Phone</string>
+						</array>
+						<array>
+							<true/>
+							<string>Work Phone</string>
+						</array>
+						<array>
+							<true/>
+							<string>Mobile Phone</string>
+						</array>
+						<array>
+							<true/>
+							<string>Home Email</string>
+						</array>
+						<array>
+							<true/>
+							<string>Work Email</string>
+						</array>
+						<array>
+							<true/>
+							<string>Chat Address</string>
+						</array>
+						<array>
+							<false/>
+							<string>Birthday</string>
+						</array>
+						<array>
+							<false/>
+							<string>Homepage</string>
+						</array>
+						<array>
+							<false/>
+							<string>(Blank Line)</string>
+						</array>
+						<array>
+							<false/>
+							<string>(Blank Line)</string>
+						</array>
+						<array>
+							<false/>
+							<string>(Blank Line)</string>
+						</array>
+						<array>
+							<false/>
+							<string>(Blank Line)</string>
+						</array>
+						<array>
+							<false/>
+							<string>(Blank Line)</string>
+						</array>
+						<array>
+							<false/>
+							<string>(Blank Line)</string>
+						</array>
+						<array>
+							<false/>
+							<string>(Blank Line)</string>
+						</array>
+						<array>
+							<false/>
+							<string>(Blank Line)</string>
+						</array>
+					</array>
+				</dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Automator.GetContactInfo</string>
+				<key>CFBundleVersion</key>
+				<string>2.0.1</string>
+				<key>CanShowSelectedItemsWhenRun</key>
+				<false/>
+				<key>CanShowWhenRun</key>
+				<true/>
+				<key>Category</key>
+				<array>
+					<string>AMCategoryContacts</string>
+				</array>
+				<key>Class Name</key>
+				<string>AMGetContactInfoAction</string>
+				<key>InputUUID</key>
+				<string>5CFD6438-149F-46CB-8415-F6B3FBE0440E</string>
+				<key>Keywords</key>
+				<array>
+					<string>Address</string>
+					<string>Person</string>
+					<string>Get</string>
+				</array>
+				<key>OutputUUID</key>
+				<string>00392439-8CC8-4633-8749-5CE2BF27B47B</string>
+				<key>UUID</key>
+				<string>E87020CA-F202-458A-87AD-274F7D247D73</string>
+				<key>UnlocalizedApplications</key>
+				<array>
+					<string>Contacts</string>
+				</array>
+				<key>arguments</key>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>default value</key>
+						<integer>0</integer>
+						<key>name</key>
+						<string>exportFormat</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>0</string>
+					</dict>
+					<key>1</key>
+					<dict>
+						<key>default value</key>
+						<array/>
+						<key>name</key>
+						<string>storedProperties</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>1</string>
+					</dict>
+					<key>2</key>
+					<dict>
+						<key>default value</key>
+						<true/>
+						<key>name</key>
+						<string>addLabels</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>2</string>
+					</dict>
+					<key>3</key>
+					<dict>
+						<key>default value</key>
+						<true/>
+						<key>name</key>
+						<string>combineNames</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>3</string>
+					</dict>
+				</dict>
+				<key>conversionLabel</key>
+				<integer>0</integer>
+				<key>isViewVisible</key>
+				<true/>
+				<key>location</key>
+				<string>309.000000:318.000000</string>
+				<key>nibPath</key>
+				<string>/System/Library/Automator/Get Contact Information.action/Contents/Resources/Base.lproj/main.nib</string>
+			</dict>
+			<key>isViewVisible</key>
+			<true/>
+		</dict>
+	</array>
+	<key>connectors</key>
+	<dict/>
+	<key>workflowMetaData</key>
+	<dict>
+		<key>workflowTypeIdentifier</key>
+		<string>com.apple.Automator.workflow</string>
+	</dict>
+</dict>
+</plist>

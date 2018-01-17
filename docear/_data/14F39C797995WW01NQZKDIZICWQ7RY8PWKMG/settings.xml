@@ -1,0 +1,12 @@
+<project name="HowComputerWorks" version="docear 1.0" ID="14F39C797995WW01NQZKDIZICWQ7RY8PWKMG">
+<folder type="library" name="Library">
+<link type="literature_annotations" name="Literature &amp; Annotations" path="project://14F39C797995WW01NQZKDIZICWQ7RY8PWKMG/_data/14F39C797995WW01NQZKDIZICWQ7RY8PWKMG/default_files/literature_and_annotations.mm"/>
+<link type="file" name="Temp" path="project://14F39C797995WW01NQZKDIZICWQ7RY8PWKMG/_data/14F39C797995WW01NQZKDIZICWQ7RY8PWKMG/default_files/temp.mm" system="true"/>
+<link type="file" name="Trash" path="project://14F39C797995WW01NQZKDIZICWQ7RY8PWKMG/_data/14F39C797995WW01NQZKDIZICWQ7RY8PWKMG/default_files/trash.mm" system="true"/>
+</folder>
+<folder type="physical" name="My drafts" path="project://14F39C797995WW01NQZKDIZICWQ7RY8PWKMG/_data/14F39C797995WW01NQZKDIZICWQ7RY8PWKMG/My%20Drafts/"/>
+<folder type="literature_repository" name="Literature repository" system="true">
+<folder type="repository_path" name="default" path="file:/Users/jingyiyou/Snie/CS/programming//literature_repository"/>
+</folder>
+<link type="references" name="References" path="project://14F39C797995WW01NQZKDIZICWQ7RY8PWKMG/_data/14F39C797995WW01NQZKDIZICWQ7RY8PWKMG/default_files/HowComputerWorks.bib" system="true"/>
+</project>
